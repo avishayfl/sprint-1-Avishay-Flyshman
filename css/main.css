@@ -1,0 +1,22 @@
+h1 {
+ color: aqua;  
+}
+
+.mine {
+    background-color: rgb(158, 17, 17);
+
+}
+
+body{
+    background-color: rgb(25, 155, 13);
+}
+
+button{
+    margin-left: 300px;
+}
+
+.board{
+    background-color: chartreuse;
+    align-items: center;
+    height: 200px;
+}
